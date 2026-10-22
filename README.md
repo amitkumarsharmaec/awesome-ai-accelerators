@@ -523,3 +523,4 @@ The best openly available courses across the stack.
 - [Berkeley CS152/252 — Computer Architecture](https://inst.eecs.berkeley.edu/~cs152/) — Krste Asanović's architecture sequence.
 - [ETH Zürich — Digital Design & Computer Architecture](https://safari.ethz.ch/digitaltechnik/) — Onur Mutlu's freely recorded lectures.
 - [UW CSE 599W — Systems for ML](https://dlsys.cs.washington.edu/) — Tianqi Chen's ML systems course.
+- 
